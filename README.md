@@ -5,27 +5,27 @@
 ### Student | Computer Science Engineering
 ---
 
-## 🛠️ Languages and Tools
+### 🛠️ Languages and Tools
 <img src="https://skillicons.dev/icons?i=html,css,js,react,java,c,cpp,swift" />
-<img src="https://skillicons.dev/icons?i=androidstudio,firebase,git,nodejs,gcp," />
+<img src="https://skillicons.dev/icons?i=androidstudio,firebase,git,github,nodejs,mysql" /> 
 
 
 
 ---
-## 🌐 Connect With Me
+### 🌐 Connect With Me
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/veer-harischandrakar-255271328/)
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/veer___241?igsh=M2Q1YWp2YW5scnpy&utm_source=qr)
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/Veer2401)
 
 
-## 📚 Courses & Certifications
+### 📚 Courses & Certifications
 - 🎯 **Prompt Design in Vertex AI** → [🔗](https://www.cloudskillsboost.google/public_profiles/f635d4ae-c6bc-41e3-87b8-11c6c6870732/badges/16722190?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share)  
 - 🧠 **Generative AI Explained - NVIDIA** → [🔗](https://learn.nvidia.com/courses/progress?course_id=course-v1%3ADLI%2BS-FX-07%2BV1)  
 - 📘 **Introduction to Machine Learning - Art of Possible** → [🔗]()  
 
 ---
 
-## 🚀 Projects
+### 🚀 Projects
 
 ### 🔹 CodeLens
 *A Chrome extension that visualizes code complexity in real time and accelerates your review process.*
