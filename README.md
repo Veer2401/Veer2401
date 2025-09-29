@@ -1,7 +1,7 @@
 <!-- Animated Typing Header -->
 <!-- <img src="https://readme-typing-svg.herokuapp.com?size=25&color=00BFFF&center=true&vCenter=true&width=600&lines=👨‍💻+Computer+Science+Engineering+Student;🌱+Open+Source+Contributor;🤖+Generative+AI+Enthusiast;💡+Software+%26+App+Developer" /> -->
 
-#  Veer Harischandrakar 
+# 🧑‍💻 Veer Harischandrakar 
 ### 💻 Computer Science Engineering | Student | Open Source Contributor
 
 ---
@@ -12,7 +12,7 @@
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/Veer2401)
 
 ---
-- 🧑‍💻 **Computer Science Engineering**  
+- 💻 **Computer Science Engineering**  
 - 🤝 Active **open-source contributor**  
 - 💡 Exploring **Generative AI, Software Development & App Development**  
 
@@ -65,7 +65,7 @@
 
 🛠️ *Built With:* **React.js | Tailwind CSS | TMDB API**  
 
-<img width="2886" height="1444" alt="image" src="https://github.com/user-attachments/assets/13796047-6cbe-42ee-951e-39492ad7333c" />
+
 
 
 👉 Check it out here: [🎬](https://cinematicx.vercel.app/)  
