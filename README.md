@@ -2,29 +2,19 @@
 <!-- <img src="https://readme-typing-svg.herokuapp.com?size=25&color=00BFFF&center=true&vCenter=true&width=600&lines=👨‍💻+Computer+Science+Engineering+Student;🌱+Open+Source+Contributor;🤖+Generative+AI+Enthusiast;💡+Software+%26+App+Developer" /> -->
 
 # 🧑‍💻 Veer Harischandrakar 
-### 💻 Computer Science Engineering | Student | Open Source Contributor
-
----
-
-## 🌐 Connect With Me
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/veer-harischandrakar-255271328/)
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/veer___241?igsh=M2Q1YWp2YW5scnpy&utm_source=qr)
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/Veer2401)
-
----
-- 💻 **Computer Science Engineering**  
-- 🤝 Active **open-source contributor**  
-- 💡 Exploring **Generative AI, Software Development & App Development**  
-
-
+### 💻 Student | Computer Science Engineering
 ---
 
 ## 🛠️ Languages and Tools
 <img src="https://skillicons.dev/icons?i=html,css,js,react,java,c,cpp,swift" />
 <img src="https://skillicons.dev/icons?i=androidstudio,firebase,git,nodejs,gcp," />
 
-
 ---
+## 🌐 Connect With Me
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/veer-harischandrakar-255271328/)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/veer___241?igsh=M2Q1YWp2YW5scnpy&utm_source=qr)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/Veer2401)
+
 
 ## 📚 Courses & Certifications
 - 🎯 **Prompt Design in Vertex AI** → [🔗](https://www.cloudskillsboost.google/public_profiles/f635d4ae-c6bc-41e3-87b8-11c6c6870732/badges/16722190?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share)  
