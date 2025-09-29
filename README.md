@@ -1,8 +1,8 @@
 <!-- Animated Typing Header -->
 <!-- <img src="https://readme-typing-svg.herokuapp.com?size=25&color=00BFFF&center=true&vCenter=true&width=600&lines=👨‍💻+Computer+Science+Engineering+Student;🌱+Open+Source+Contributor;🤖+Generative+AI+Enthusiast;💡+Software+%26+App+Developer" /> -->
 
-# 🧑‍💻 Veer Harischandrakar 
-### 💻 Student | Computer Science Engineering
+# 💻 Veer Harischandrakar 
+### Student | Computer Science Engineering
 ---
 
 ## 🛠️ Languages and Tools
