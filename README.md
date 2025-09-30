@@ -39,7 +39,7 @@
 🛠️ *Built With:* **React 18 | Esprima | Manifest V3**  
 
 
-<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/b85394c0-a48c-4c96-a7eb-6a5804839d6b" />
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/b85394c0-a48c-4c96-a7eb-6a5804839d6b" />
 
 
 👉 Check it out here: [🔍](https://thecodelens.vercel.app/)  
