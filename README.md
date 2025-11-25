@@ -15,7 +15,7 @@
 ### 🌐 Connect With Me
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/veer-harischandrakar-255271328/)
 [![LinkedIn](https://skillicons.dev/icons?i=gmail)](https://mail.google.com/mail/u/0/?fs=1&to=veerharischandrakar@gmail.com&su=Hello&body=Hi+there!+I+wanted+to+contact+you.&tf=cm)
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/veer___241?igsh=M2Q1YWp2YW5scnpy&utm_source=qr)
+
 
 
 
