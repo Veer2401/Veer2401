@@ -28,6 +28,11 @@
 
 ### 🚀 Projects
 
+### 🔹 TaleHue
+*TaleHue is a modern web application designed for creating, sharing, and exploring AI-generated stories and images. Built with Next.js and integrated with Firebase, tale-hue offers a seamless experience for users to generate creative content, interact with a community, and manage their profiles securely.*
+
+
+
 ### 🔹 CodeLens
 *A Chrome extension that visualizes code complexity in real time and accelerates your review process.*
 
