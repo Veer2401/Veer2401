@@ -3,7 +3,7 @@
 
 # 💻 Veer Harischandrakar 
 ### Student | Computer Science Engineering
-https://veerportfolio.vercel.app/
+
 ---
 
 ### 🛠️ Teck Stack
