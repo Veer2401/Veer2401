@@ -7,7 +7,7 @@
 ---
 
 ### 🛠️ Teck Stack
-<img src="https://skillicons.dev/icons?i=html,css,js,react,java,c,cpp,swift" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,java,c,cpp,swift,python" />
 <img src="https://skillicons.dev/icons?i=androidstudio,firebase,git,github,nodejs,mysql" /> 
 
 
