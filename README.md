@@ -31,8 +31,10 @@
 
 ### 🔹 Database Visualiser
 
+A modern, visual MySQL database design tool that lets you create, manage, and visualize database schemas with an intuitive drag-and-drop interface. No SQL expertise required.
+
 ### 🔹 TaleHue
-*TaleHue is a modern web application designed for creating, sharing, and exploring AI-generated stories and images. Built with Next.js and integrated with Firebase, tale-hue offers a seamless experience for users to generate creative content, interact with a community, and manage their profiles securely.*
+TaleHue is a modern web application designed for creating, sharing, and exploring AI-generated stories and images. Built with Next.js and integrated with Firebase, tale-hue offers a seamless experience for users to generate creative content, interact with a community, and manage their profiles securely.*
 
 
 
