@@ -29,6 +29,8 @@
 
 ### 🚀 Projects
 
+### 🔹 Database Visualiser
+
 ### 🔹 TaleHue
 *TaleHue is a modern web application designed for creating, sharing, and exploring AI-generated stories and images. Built with Next.js and integrated with Firebase, tale-hue offers a seamless experience for users to generate creative content, interact with a community, and manage their profiles securely.*
 
@@ -44,9 +46,6 @@
 - 🎯 One-Click Insights – Results in a clean popup  
 
 🛠️ *Built With:* **React 18 | Esprima | Manifest V3**  
-
-
-<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/b85394c0-a48c-4c96-a7eb-6a5804839d6b" />
 
 
 👉 Check it out here: [🔍](https://thecodelens.vercel.app/)  
