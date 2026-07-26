@@ -8,11 +8,7 @@ Computer Science & Engineering Student • Google Student Ambassador • Technic
 Building AI-powered applications, cloud solutions, and full-stack software that solves real-world problems.
 </p>
 
-<p align="center">
-  <a href="https://github.com/Veer2401">
-    <img src="https://komarev.com/ghpvc/?username=Veer2401&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  </a>
-</p>
+
 
 ---
 
