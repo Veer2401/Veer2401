@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Veer Harischandrakar</h1>
+<h1 align="">Hi 👋, I'm Veer Harischandrakar</h1>
 
-<h3 align="center">
+<h3 align="">
 Computer Science & Engineering Student • Google Student Ambassador • Technical Lead @ AWS Student Builders
 </h3>
 
-<p align="center">
+<p align="">
 Building AI-powered applications, cloud solutions, and full-stack software that solves real-world problems.
 </p>
 
@@ -62,10 +62,10 @@ Building AI-powered applications, cloud solutions, and full-stack software that 
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Veer2401&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Veer2401&layout=compact&theme=github_dark&hide_border=true" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Veer2401&theme=github-dark&hide_border=true" />
