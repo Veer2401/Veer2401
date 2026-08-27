@@ -16,8 +16,14 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: Veer2401
-          template: terminal
-          base: header, activity, repositories
+          template: classic
+          base: header
           config_timezone: Asia/Kolkata
-          plugin_languages: yes
-          plugin_languages_ignored: html, css
+          config_theme: dark
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+          plugin_habits: yes
+          plugin_habits_charts_type: chartjs
+          plugin_habits_days: 14
+          plugin_habits_facts: yes
+          plugin_habits_from: 200
