@@ -61,9 +61,8 @@ Building AI-powered applications, cloud solutions, and full-stack software that 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Veer2401&theme=github_dark" alt="Veer's GitHub Stats" />
+  <img src="https://raw.githubusercontent.com/Veer2401/Veer2401/main/github-metrics.svg" alt="Veer's Live GitHub Stats" />
 </p>
----
 
 ## 📊 Developer Focus & Highlights
 
