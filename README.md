@@ -58,13 +58,15 @@ Building AI-powered applications, cloud solutions, and full-stack software that 
 
 ---
 
-## 📊 GitHub Stats
+## 🏆 GitHub Trophies & Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Veer2401&show_icons=true&theme=github_dark&hide_border=true" alt="Veer's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Veer2401&layout=compact&theme=github_dark&hide_border=true" alt="Veer's Top Languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Veer2401&theme=onedark&no-frame=true&margin-w=15" alt="Veer's GitHub Trophies" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Veer2401&theme=dark&hide_border=true" alt="Veer's GitHub Streak" />
+</p>
 ---
 
 ## 🏆 Certifications
