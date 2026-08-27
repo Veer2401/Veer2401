@@ -16,9 +16,8 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: Veer2401
-          template: classic
-          base: header, activity, community, repositories
+          template: terminal
+          base: header, activity, repositories
           config_timezone: Asia/Kolkata
           plugin_languages: yes
           plugin_languages_ignored: html, css
-          plugin_languages_limit: 4
