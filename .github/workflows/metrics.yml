@@ -1,11 +1,12 @@
 name: Metrics
 on:
-  # Updates every 12 hours
   schedule: [{cron: "0 */12 * * *"}]
-  # Allows you to run it manually from the Actions tab
   workflow_dispatch:
-  # Updates on every push to the main branch
   push: {branches: ["main"]}
+
+# Add these two lines to grant commit access
+permissions:
+  contents: write
 
 jobs:
   github-metrics:
