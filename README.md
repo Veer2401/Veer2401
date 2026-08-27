@@ -1,7 +1,7 @@
-<h1 align="">Hi 👋, I'm Suveer K Upasani</h1>
+<h1 align="">Hi 👋, I'm Veer Harischandrakar</h1>
 
 <h3 align="">
-Computer Science & Engineering Student • Google Student Ambassador • Cloud Captain @ AWS Student Builders
+Computer Science & Engineering Student • Google Student Ambassador • Technical Lead @ AWS Student Builders
 </h3>
 
 <p align="">
@@ -14,7 +14,7 @@ Building AI-powered applications, cloud solutions, and full-stack software that 
 
 - 🎓 Third-year Computer Science & Engineering student at **DES Pune University**
 - 🌟 Google Student Ambassador
-- ☁️ Cloud Captain at **AWS Student Builders**
+- ☁️ Technical Lead at **AWS Student Builders**
 - 💻 Full-Stack Developer passionate about building scalable applications
 - 🤖 Exploring **Generative AI**, **Cloud Computing**, and **Developer Tools**
 - 🚀 Currently building projects with **Gemini**, **React**, **Next.js**, **Firebase**, **PostgreSQL**, and **AWS**
@@ -58,20 +58,13 @@ Building AI-powered applications, cloud solutions, and full-stack software that 
 
 ---
 
-## 📊 GitHub Highlights
+## 📊 Developer Focus & Highlights
 
-<p align="left">
-  <a href="https://github.com/Veer2401">
-    <img src="https://img.shields.io/github/followers/Veer2401?label=Followers&style=for-the-badge&color=2ea043&logo=github" alt="Followers" />
-  </a>
-  <a href="https://github.com/Veer2401">
-    <img src="https://img.shields.io/github/stars/Veer2401?label=Total%20Stars&style=for-the-badge&color=e3b341&logo=github" alt="Stars" />
-  </a>
-  <a href="https://github.com/Veer2401">
-    <img src="https://img.shields.io/github/repos/Veer2401?label=Repositories&style=for-the-badge&color=8250df&logo=github" alt="Repos" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=Veer2401&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-</p>
+> 💡 **Core Mission:** Bridging the gap between scalable cloud infrastructure and intelligent, AI-driven applications.
+
+- **☁️ Cloud & Architecture:** Designing secure, optimized systems leveraging AWS.
+- **🧠 Generative AI:** Integrating Large Language Models for practical software solutions.
+- **🤝 Community Building:** Empowering fellow developers through technical workshops and cloud communities.
 
 ---
 
