@@ -102,7 +102,7 @@ Building AI-powered applications, cloud solutions, and full-stack software that 
 
 🌐 **Portfolio:** https://veerharischandrakar.vercel.app/
 
-📄 **Resume:** https://drive.google.com/file/d/1MbE_h22gWjFH9B-oGgtEawWco_fQCr6n/view
+
 
 ---
 
