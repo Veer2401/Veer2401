@@ -61,8 +61,10 @@ Building AI-powered applications, cloud solutions, and full-stack software that 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Veer2401/Veer2401/main/github-metrics.svg" alt="Terminal Metrics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Veer2401&show_icons=true&hide=commits&hide_border=true&theme=tokyonight&count_private=true" />
+  <img height="165" src="https://streak-stats.demolab.com/?user=Veer2401&hide_border=true&theme=tokyonight" />
 </p>
+
 
 ## 📊 Developer Focus & Highlights
 
