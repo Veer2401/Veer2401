@@ -52,7 +52,6 @@ Building AI-powered applications, cloud solutions, and full-stack software that 
 ## 🚀 Featured Projects
 
 - **Schema View** — Interactive database schema visualization platform
-- **TaleHue** — AI-powered micro-story platform using Gemini API
 - **Coherence Academy** — Educational platform built for a coaching institute
 - **CodeLens** — Chrome Extension for real-time code complexity visualization
 
