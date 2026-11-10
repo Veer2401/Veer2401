@@ -12,7 +12,7 @@
 <br/>
 
 <a href="https://github.com/Veer2401">
-  <img src="https://img.shields.io/badge/GitHub-Veer2401-172536?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-Veer2401-2563EB?style=flat-square&logo=github&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/veer-harischandrakar/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-2459D3?style=flat-square&logo=linkedin&logoColor=white" />
@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/badge/Portfolio-Explore-2459D3?style=flat-square&logo=vercel&logoColor=white" />
 </a>
 <a href="mailto:veerharischandrakar@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Say_Hello-B34A42?style=flat-square&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-Say_Hello-1D4ED8?style=flat-square&logo=gmail&logoColor=white" />
 </a>
 
 <br/><br/>
@@ -66,11 +66,7 @@ I enjoy turning ideas into working products, experimenting with emerging technol
 
 <div align="center">
 
-<img src="./cards/activity.svg" width="100%" alt="Monthly contribution activity, streak, active days and busiest day" />
-
-<br/>
-
-<img src="./cards/heatmap.svg" width="100%" alt="Blue GitHub contribution graph" />
+<img src="./cards/activity.svg" width="100%" alt="GitHub activity card with local, token-free status information" />
 
 </div>
 
