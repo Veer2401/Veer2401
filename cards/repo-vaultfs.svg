@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+        xmlns:xlink="http://www.w3.org/1999/xlink"
+        width="1500" height="260"
+        viewBox="0 0 1500 260" role="img"
+        aria-label="VaultFS Core — Secure File System Simulator">
+    <title>VaultFS Core — Secure File System Simulator</title>
+    <defs>
+      <style>
+        text {
+          font-family: Inter, ui-sans-serif, system-ui, -apple-system,
+                       BlinkMacSystemFont, "Segoe UI", sans-serif;
+        }
+        .muted { fill: #718075; }
+        .heading { fill: #17251B; font-weight: 700; }
+        .green { fill: #16A34A; }
+        .fade { opacity: .65; }
+        @media (prefers-reduced-motion: reduce) {
+          animate, animateTransform { display: none; }
+        }
+      </style>
+      <linearGradient id="greenGlow" x1="0" y1="0" x2="1" y2="1">
+        <stop offset="0%" stop-color="#22C55E"/>
+        <stop offset="100%" stop-color="#087A35"/>
+      </linearGradient>
+    </defs>
+    <rect width="1500" height="260" rx="24" fill="#F5F7F2"/>
+    <rect x="1" y="1" width="1498" height="258" rx="24"
+          fill="none" stroke="#E2E9E1"/>
+    <text x="65" y="55" font-size="15" fill="#087A35"
+          letter-spacing="3">FEATURED PROJECT  /  04</text>
+    <text x="65" y="120" font-size="43" font-weight="700"
+          fill="#17251B">VaultFS Core</text>
+    <text x="65" y="160" font-size="20" fill="#087A35">
+      Secure File System Simulator
+    </text>
+    <text x="65" y="205" font-size="17" fill="#718075">
+      A Java-based file system simulator and CLI project.
+    </text>
+    <rect x="1120" y="75" width="300" height="100" rx="18"
+          fill="#DCFCE7"/>
+    <text x="1270" y="135" text-anchor="middle" font-size="19"
+          font-weight="700" fill="#087A35">JAVA</text>
+    </svg>

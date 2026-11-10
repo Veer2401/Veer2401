@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+        xmlns:xlink="http://www.w3.org/1999/xlink"
+        width="1500" height="390"
+        viewBox="0 0 1500 390" role="img"
+        aria-label="Veer Harischandrakar — Developer Profile">
+    <title>Veer Harischandrakar — Developer Profile</title>
+    <defs>
+      <style>
+        text {
+          font-family: Inter, ui-sans-serif, system-ui, -apple-system,
+                       BlinkMacSystemFont, "Segoe UI", sans-serif;
+        }
+        .muted { fill: #718075; }
+        .heading { fill: #17251B; font-weight: 700; }
+        .green { fill: #16A34A; }
+        .fade { opacity: .65; }
+        @media (prefers-reduced-motion: reduce) {
+          animate, animateTransform { display: none; }
+        }
+      </style>
+      <linearGradient id="greenGlow" x1="0" y1="0" x2="1" y2="1">
+        <stop offset="0%" stop-color="#22C55E"/>
+        <stop offset="100%" stop-color="#087A35"/>
+      </linearGradient>
+    </defs>
+    <rect width="1500" height="390" rx="24" fill="#F5F7F2"/><circle cx="1320" cy="70" r="180" fill="#DCFCE7" opacity=".65"/><circle cx="1400" cy="330" r="150" fill="#BBF7D0" opacity=".45"/>
+    <text x="90" y="105" font-size="20" fill="#087A35"
+          letter-spacing="4" font-weight="700">HELLO, I'M VEER</text>
+    <text x="90" y="190" class="heading" font-size="68">
+      Veer Harischandrakar
+    </text>
+    <text x="92" y="245" font-size="25" fill="#718075">
+      Computer Science &amp; Engineering · Developer · Builder
+    </text>
+    <text x="92" y="305" font-size="19" fill="#087A35">
+      Generative AI  /  Agentic AI  /  Cloud Computing  /  Full-Stack
+    </text>
+    <rect x="90" y="335" width="110" height="5" rx="2.5" fill="#16A34A"/>
+    <circle cx="1290" cy="195" r="85" fill="none"
+            stroke="#16A34A" stroke-width="2" opacity=".25"/>
+    <circle cx="1290" cy="195" r="65" fill="none"
+            stroke="#16A34A" stroke-width="2" opacity=".45"/>
+    <circle cx="1290" cy="195" r="45" fill="url(#greenGlow)">
+      <animate attributeName="opacity" values="0.75;1;0.75" dur="4s" repeatCount="indefinite"/>
+    </circle>
+    <text x="1290" y="205" text-anchor="middle"
+          font-size="30" fill="white" font-weight="700">V</text>
+    </svg>
